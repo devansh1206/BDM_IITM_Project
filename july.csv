@@ -1,0 +1,84 @@
+,Unnamed: 0,Category,Sub Category,Order Date,Sales,Discount,Profit
+409,1803,Fruits & Veggies,Fresh Fruits,07-01-2022,1953,0.19,468.72
+410,1809,"Eggs, Meat & Fish",Mutton,07-01-2022,238,0.16,357.68
+411,1810,"Eggs, Meat & Fish",Fish,07-01-2022,1025,0.28,277.76
+412,1716,Snacks,Chocolates,07-02-2022,2231,0.12,591.8572800000001
+413,1714,Beverages,Health Drinks,07-02-2022,2840,0.34,956.4
+414,1550,Fruits & Veggies,Fresh Fruits,07-03-2022,1492,0.26,119.36
+415,185,"Eggs, Meat & Fish",Chicken,07-03-2022,198,0.3,250.5216
+416,1667,Snacks,Noodles,07-03-2022,1106,0.33,113.66784
+417,317,"Eggs, Meat & Fish",Fish,07-03-2022,50,0.29,194.28864
+418,347,Food Grains,Dals & Pulses,07-03-2022,588,0.13,235.2
+419,1934,Food Grains,Dals & Pulses,07-03-2022,1143,0.13,434.34
+420,1277,"Eggs, Meat & Fish",Chicken,07-03-2022,50,0.34,51.712
+421,1015,Oil & Masala,Edible Oil & Ghee,07-03-2022,103,0.26,5.15
+422,1929,Oil & Masala,Masalas,07-03-2022,500,0.1,25.0
+423,1930,Bakery,Breads & Buns,07-03-2022,2864,0.25,1160.3200000000002
+424,1961,Food Grains,Atta & Flour,07-03-2022,646,0.11,64.6
+425,1052,Beverages,Health Drinks,07-03-2022,2637,0.34,690.568
+426,1783,Fruits & Veggies,Fresh Fruits,07-03-2022,1589,0.35,715.05
+427,1782,Beverages,Health Drinks,07-03-2022,1883,0.17,405.7488
+428,357,Snacks,Chocolates,07-03-2022,2996,0.32,1258.4
+429,1832,"Eggs, Meat & Fish",Mutton,07-03-2022,1205,0.19,421.5
+430,1047,Bakery,Biscuits,07-03-2022,2541,0.12,1037.58
+431,875,Beverages,Soft Drinks,07-03-2022,2445,0.27,688.96
+432,1928,Oil & Masala,Spices,07-03-2022,686,0.31,34.3
+433,1237,Oil & Masala,Spices,07-03-2022,86,0.13,4.3
+434,1380,Fruits & Veggies,Fresh Fruits,07-05-2022,1688,0.1,472.64
+435,1524,Oil & Masala,Masalas,07-05-2022,50,0.35,2.5
+436,1358,Snacks,Chocolates,07-05-2022,2373,0.22,1009.2
+437,1158,Fruits & Veggies,Fresh Vegetables,07-05-2022,842,0.11,227.34
+438,1372,Snacks,Noodles,07-05-2022,2583,0.29,205.59744000000003
+439,1368,Snacks,Cookies,07-05-2022,1348,0.19,155.10528
+440,224,Bakery,Cakes,07-06-2022,2541,0.34,1018.17
+441,21,"Eggs, Meat & Fish",Mutton,07-06-2022,152,0.3,273.45919999999995
+442,22,"Eggs, Meat & Fish",Eggs,07-06-2022,50,0.25,87.296
+443,366,Fruits & Veggies,Fresh Fruits,07-06-2022,2264,0.28,679.2
+444,1554,Oil & Masala,Edible Oil & Ghee,07-07-2022,101,0.2,5.05
+445,194,Oil & Masala,Masalas,07-07-2022,50,0.31,2.5
+446,860,Bakery,Breads & Buns,07-07-2022,1912,0.18,544.1126399999999
+447,549,Beverages,Health Drinks,07-07-2022,2845,0.3,176.04
+448,953,Bakery,Cakes,07-07-2022,2428,0.35,1012.92
+449,406,"Eggs, Meat & Fish",Mutton,07-07-2022,259,0.1,290.82879999999994
+450,408,Oil & Masala,Spices,07-07-2022,50,0.34,2.5
+451,954,Food Grains,Dals & Pulses,07-07-2022,2258,0.29,361.28
+452,952,Beverages,Soft Drinks,07-07-2022,1817,0.27,837.65
+453,52,"Eggs, Meat & Fish",Chicken,07-08-2022,938,0.13,387.328
+454,50,Fruits & Veggies,Organic Vegetables,07-08-2022,1113,0.21,356.16
+455,51,Food Grains,Rice,07-08-2022,1966,0.1,629.12
+456,912,Snacks,Cookies,07-08-2022,2352,0.23,655.0336
+457,1890,Bakery,Biscuits,07-08-2022,1277,0.26,374.35392
+458,1903,Bakery,Cakes,07-08-2022,2312,0.19,325.41696
+459,1167,Food Grains,Atta & Flour,07-08-2022,2251,0.26,810.36
+460,1648,"Eggs, Meat & Fish",Fish,07-08-2022,587,0.15,397.544
+461,346,Beverages,Health Drinks,07-08-2022,1045,0.11,148.608
+462,1065,Fruits & Veggies,Organic Vegetables,07-08-2022,1438,0.35,186.94
+463,1584,Bakery,Cakes,07-08-2022,1748,0.3,751.04
+464,1886,Fruits & Veggies,Organic Fruits,07-08-2022,1184,0.22,189.44
+465,447,Food Grains,Atta & Flour,07-08-2022,629,0.11,69.19
+466,1398,Bakery,Breads & Buns,07-08-2022,2174,0.33,163.19232000000002
+467,902,Bakery,Cakes,07-08-2022,2717,0.26,679.2112000000001
+468,1161,"Eggs, Meat & Fish",Mutton,07-08-2022,249,0.27,244.82304
+469,1701,Food Grains,Dals & Pulses,07-08-2022,1135,0.31,147.55
+470,1884,Snacks,Cookies,07-08-2022,2177,0.11,767.72
+471,1406,Oil & Masala,Spices,07-08-2022,1436,0.34,71.8
+472,1217,Fruits & Veggies,Fresh Fruits,07-09-2022,1411,0.28,352.75
+473,713,Food Grains,Organic Staples,07-09-2022,584,0.33,256.96
+474,717,Fruits & Veggies,Organic Vegetables,07-09-2022,1410,0.16,70.5
+475,666,Oil & Masala,Masalas,07-09-2022,50,0.21,2.5
+476,1678,"Eggs, Meat & Fish",Chicken,07-09-2022,50,0.21,231.168
+477,1226,Oil & Masala,Edible Oil & Ghee,07-09-2022,482,0.27,24.1
+478,720,Bakery,Cakes,07-09-2022,2631,0.25,456.2438399999999
+479,177,Fruits & Veggies,Fresh Vegetables,07-09-2022,1205,0.3,494.05
+480,1021,Beverages,Soft Drinks,07-09-2022,2385,0.23,1073.4
+481,1822,Bakery,Cakes,07-10-2022,2846,0.1,271.67616
+482,1442,Fruits & Veggies,Fresh Vegetables,07-10-2022,1604,0.31,577.44
+483,249,Oil & Masala,Edible Oil & Ghee,07-10-2022,685,0.3,34.25
+484,628,Food Grains,Dals & Pulses,07-11-2022,1934,0.11,135.38
+485,1637,Bakery,Biscuits,07-11-2022,1984,0.3,825.92
+486,1485,Snacks,Cookies,07-11-2022,2931,0.17,322.23743999999994
+487,1516,Snacks,Noodles,07-11-2022,1374,0.16,147.12192000000002
+488,1474,Fruits & Veggies,Organic Fruits,07-11-2022,1251,0.24,250.2
+489,1620,"Eggs, Meat & Fish",Fish,07-11-2022,50,0.15,223.4624
+490,984,Food Grains,Rice,07-11-2022,1597,0.15,351.34
+491,732,Fruits & Veggies,Fresh Vegetables,07-12-2022,1486,0.11,653.84
